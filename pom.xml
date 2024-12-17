@@ -12,7 +12,7 @@
 	<artifactId>erp</artifactId>
 	<version>0.0.1</version>
 	<name>erp</name>
-	<description>ERP du groupe Gauthier - Théo</description>
+	<description>ERP du groupe Valentin - (j'ai tout fait)</description>
 	<packaging>jar</packaging>
 	<url/>
 	<licenses>
@@ -77,9 +77,9 @@
 			<properties>
 				<host>localhost</host>
 				<port>3306</port>
-				<db>erp</db>
-				<db-user>erp_user</db-user>
-				<db-password>erp_pass</db-password>
+				<db>myappdb</db>
+				<db-user>myappuser</db-user>
+				<db-password>mypassword</db-password>
 			</properties>
 		</profile>
 	</profiles>
